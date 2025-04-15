@@ -1,0 +1,25 @@
+{
+  "name": "wikelsondiazalc.github.io",
+  "version": "1.0.0",
+  "main": "index.test.js",
+  "scripts": {
+  "test": "jest"
+}
+,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WikelsonDiazAl/WikelsonDiazAlc.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WikelsonDiazAl/WikelsonDiazAlc.github.io/issues"
+  },
+  "homepage": "https://github.com/WikelsonDiazAl/WikelsonDiazAlc.github.io#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jsdom": "^26.1.0"
+  }
+}
